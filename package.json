@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/Eingest/testreactproject/issues"
   },
-  "homepage": "https://github.com/Eingest/testreactproject#readme",
+  "homepage": ".",
   "browserslist": {
     "production": [
       ">0.2%",

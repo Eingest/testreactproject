@@ -4,21 +4,19 @@ import MeetupList from "../components/meetups/MeetupList";
 const DUMMY_DATA = [
   {
     id: "m1",
-    title: "This is a first meetup",
-    image:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/2560px-Stadtbild_M%C3%BCnchen.jpg",
-    address: "Meetupstreet 5, 12345 Meetup City",
-    description:
-      "This is a first, amazing meetup which you definitely should not miss. It will be a lot of fun!",
+    title: "SENDAI",
+    image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Panorama_of_Sendai_Station_East_Entrance.jpg",
+    address: "Country: Japan - Prefecture: Miyagi -  City: Sendai",
+    description: "This is a Sendai. Nice.",
   },
   {
     id: "m2",
-    title: "This is a second meetup",
+    title: "DORTMUND",
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/2560px-Stadtbild_M%C3%BCnchen.jpg",
-    address: "Meetupstreet 5, 12345 Meetup City",
+      "https://www.dortmund.de/media/bilder/pool/___allgemein_pool/dortmund/Panorama-Stadt-Standort-Hansaplatz_Roland-Gorecki03_PanoramaGross_LG.jpg",
+    address: "Country: Germany - State: NRW -  City: Dortmund",
     description:
-      "This is a first, amazing meetup which you definitely should not miss. It will be a lot of fun!",
+      "This is a Dortmund. Very Nice.",
   },
 ];
 

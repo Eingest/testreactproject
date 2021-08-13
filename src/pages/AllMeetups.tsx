@@ -13,7 +13,7 @@ const DUMMY_DATA = [
     id: "m2",
     title: "DORTMUND",
     image:
-      "https://www.dortmund.de/media/bilder/pool/___allgemein_pool/dortmund/Panorama-Stadt-Standort-Hansaplatz_Roland-Gorecki03_PanoramaGross_LG.jpg",
+      "https://www.leonardo-hotels.de/octopus/upload/images/pages/dortmund-1-.jpg",
     address: "Country: Germany - State: NRW -  City: Dortmund",
     description:
       "This is a Dortmund. Very Nice.",

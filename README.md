@@ -46,5 +46,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Firebase API
-**Note: Test Mode
+**Note: Test Mode**
 https://react-getting-started-1b898-default-rtdb.firebaseio.com/

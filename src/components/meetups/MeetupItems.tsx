@@ -12,7 +12,7 @@ function MeetupItem(props: any) {
 
   function toggleFavoriteStatusHandler() {
     if (itemIsFavorite) {
-      favoritesCtx.removeFavorite(props.Id);
+      favoritesCtx.removeFavorite(props.id);
     } else {
       favoritesCtx.addFavorite({
         id: props.id,

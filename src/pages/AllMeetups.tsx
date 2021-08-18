@@ -27,6 +27,7 @@ function AllMeetupsPage() {
   const [loadedMeetups, setLoadedMeetups] = useState([]);
 
   //useEffect -> fetch() won't run everytime
+  //async await -> not with react
   useEffect(() => {
     setIsLoading(true);
     fetch(
